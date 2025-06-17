@@ -39,6 +39,6 @@
 
 ## 📬 Contact
 ### Dacă vrei să colaborăm sau ai feedback legat de portofoliul meu, mă poți contacta la:
-### Email: pomineata.andrei@gmail.com
+### Email: apomineata@gmail.com
 ### GitHub: https://www.github.com/Andrei-developer
 ### LinkedIn: https://www.linkedin.com/in/andre-x-1845672b3/
