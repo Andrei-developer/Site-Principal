@@ -223,6 +223,10 @@ textarea::placeholder {
   background-color: var(--orange-7);
 }
 
+#part2-contact div > div > a {
+  color: var(--white);
+}
+
 #part2-contact div > p {
   color: var(--white);
 }

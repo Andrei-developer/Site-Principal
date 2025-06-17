@@ -577,8 +577,21 @@ textarea::placeholder {
   align-items: start;
   flex-direction: column;
   justify-content: space-evenly;
-  height: 100%;
+  height: 85%;
   padding: 0px 20px;
+}
+
+#part2-contact div > div {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 15%;
+  width: 100%;
+}
+
+#part2-contact div > div > a {
+  font-size: 30px;
 }
 
 #part2-contact div > p {

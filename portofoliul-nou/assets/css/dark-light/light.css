@@ -249,6 +249,10 @@ footer p {
   }
 }
 
+#part2-contact div > div > a {
+  color: var(--black);
+}
+
 #part2-contact div > p {
   font-weight: 200;
   color: var(--black);
