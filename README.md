@@ -10,21 +10,18 @@
 ### CSS
 ### JavaScript
 ### GitHub Pages
+### FormSubmit API
 
 ## 📌 Secțiuni principale
 ### Eu sunt Andrei
 ### Sunt un tânăr pasionat de dezvoltare web, design curat și funcționalitate eficientă. Îmi place să creez experiențe digitale care nu doar arată bine, dar și funcționează perfect. Am început acest drum din curiozitate, iar acum îl continui cu ambiție și dorință de a deveni un frontend developer profesionist, în drumul spre a deveni full-stack developer.
-### Despre mine – un scurt rezumat despre cine sunt, ce fac și care sunt obiectivele mele
-### Proiecte
-### - 
-### - 
-### - 
-### - 
-### - 
-### - 
-### - 
-### Abilități – limbaje, tehnologii și unelte pe care le stăpânesc sau pe care le învăț activ
-### Contact – secțiune de contact rapid cu buton sau link către adresa de e-mail și rețelele sociale
+### Proiecte:
+### - https://to-do-list.andrew-code.com/
+### - https://calculator.andrew-code.com/
+### - https://digital-clock.andrew-code.com/
+### - https://anime-api.andrew-code.com/
+### - https://rase-de-caini-api.andrew-code.com/
+### - https://tractoare.andrew-code.com/index.html
 
 ## 🎯 Scop
 ### Scopul portofoliului este:
@@ -32,18 +29,16 @@
 ### Să îmi organizez vizibil proiectele într-un mod clar și accesibil
 ### Să îmi construiesc o identitate online care inspiră încredere
 
-## 🔗 Link util
+## 🔗 Link catre site-ul principal
 ### Poți vizita site-ul meu aici:
 ### 👉 https://andrew-code.com/
 
 ## ✨ Planuri viitoare
-### Adăugarea unui blog tehnic (cu articole despre ce învăț și creez)
-### Integrarea unui dark mode
 ### Adăugarea de proiecte avansate (cu backend sau framework-uri precum React)
 ### Traducere completă în engleză pentru audiență internațională
 
 ## 📬 Contact
 ### Dacă vrei să colaborăm sau ai feedback legat de portofoliul meu, mă poți contacta la:
 ### Email: pomineata.andrei@gmail.com
-### GitHub: github.com/andrew-code-dev
-### LinkedIn: (opțional, dacă ai cont)
+### GitHub: https://www.github.com/andrew-code-dev
+### LinkedIn: https://www.linkedin.com/in/andre-x-1845672b3/
