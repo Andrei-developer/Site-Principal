@@ -1,0 +1,242 @@
+/* /////////////////////// 
+-------    Root   -------- 
+/////////////////////// */
+
+:root {
+  --transparent: ;
+  --black: #000000;
+  --black-1: #080808;
+  --gray-1: #3f3f3f7c;
+  --gray-2: #4e4e4e;
+  --gray-3: #202020;
+  --gray-4: #2e2e2e;
+  --gray-5: #3f3f3f;
+  --white: #ffffff;
+  --white-1: #bebebe;
+  --white-2: #bbbbbb;
+  --white-3: #ffffffa9;
+  --white-4: #ffffffd7;
+  --white-5: #ffd1be;
+  --orange-1: #ffab96;
+  --orange-2: #ff3300;
+  --orange-3: #ff8364;
+  --orange-4: #a82200;
+  --orange-5: #ff3300a8;
+  --orange-6: #ff4800;
+  --orange-7: #ff5e00;
+  --orange-8: #ff5613;
+  --orange-9: #ff5100c7;
+  --orange-10: #ff5100;
+  --orange-transparent-1: rgba(255, 81, 0, 0.39);
+  --blue: #2a6399;
+}
+
+body {
+  background: linear-gradient(to right, var(--black), var(--gray-3));
+}
+
+#go-top-btn {
+  background-color: var(--white-1);
+  box-shadow: 0px 0px 5px var(--white);
+}
+
+#go-top-btn:hover {
+  background-color: var(--orange-1);
+  box-shadow: 0px 0px 10px var(--orange-2);
+}
+
+#go-top-btn:active {
+  background-color: var(--orange-3);
+  box-shadow: 0px 0px 10px var(--orange-4);
+}
+
+header {
+  background-color: var(--gray-1);
+}
+
+header a {
+  color: var(--white);
+  padding: 10px;
+}
+
+@keyframes aAnimation {
+  0% {
+    background-color: var(--transparent);
+  }
+  100% {
+    background-color: var(--orange-7);
+  }
+}
+
+@keyframes aAnimation-2 {
+  0% {
+    background-color: var(--orange-7);
+  }
+  100% {
+    background-color: var(--transparent);
+  }
+}
+
+.dark-ligth {
+  background-color: var(--gray-2);
+  box-shadow: 0px 0px 8px var(--white);
+}
+
+@keyframes change-color-1 {
+  0% {
+    transform: translateX(50px);
+    background: linear-gradient(to top, var(--blue), var(--white));
+  }
+  100% {
+    transform: translateX(0px);
+    background: linear-gradient(to right, var(--orange-7), var(--black));
+  }
+}
+
+@keyframes change-color-2 {
+  0% {
+    transform: translateX(0px);
+    background: linear-gradient(to right, var(--orange-7), var(--black));
+  }
+  100% {
+    transform: translateX(50px);
+    background: linear-gradient(to top, var(--blue), var(--white));
+  }
+}
+
+main p {
+  color: var(--white);
+}
+
+main p {
+  text-shadow: 0px 0px 10px var(--white);
+}
+
+main h1 {
+  color: var(--orange-7);
+}
+
+h2 {
+  color: var(--white);
+}
+
+.textAbout {
+  color: var(--white);
+}
+
+.textAbout h3 {
+  text-shadow: 0px 0px 10px var(--white);
+}
+
+#about-me img {
+  background-color: var(--white);
+  border: 1px solid var(--white);
+}
+
+#scrollRight,
+#scrollLeft {
+  background-color: var(--orange-9);
+}
+
+#scrollRight:hover,
+#scrollLeft:hover {
+  background-color: var(--orange-2);
+}
+
+#scrollRight:active,
+#scrollLeft:active {
+  background-color: var(--orange-7);
+}
+
+@media (max-width: 450px) {
+  #scrollRight,
+  #scrollLeft {
+    background-color: var(--white-1);
+  }
+
+  #scrollRight:hover,
+  #scrollLeft:hover {
+    background-color: var(--white-5);
+  }
+
+  #scrollRight:active,
+  #scrollLeft:active {
+    background-color: var(--white-3);
+  }
+}
+
+.projects img {
+  border: 1.5px solid var(--white);
+}
+
+.projects h3 {
+  color: var(--white);
+  text-shadow: 0px 0px 20px var(--white);
+}
+
+.projects p {
+  color: var(--white);
+  text-shadow: 0px 0px 2px var(--white);
+}
+
+.butoane a {
+  background-color: var(--white-3);
+  color: var(--black);
+}
+
+.butoane a:hover {
+  background-color: var(--white-4);
+}
+
+.butoane a:active {
+  background-color: var(--white-5);
+}
+
+#contact input {
+  border-bottom: 2px solid var(--white);
+  background-color: var(--transparent);
+  color: var(--white);
+}
+
+#contact input::placeholder,
+textarea::placeholder {
+  color: var(--white);
+}
+
+#contact textarea {
+  border-bottom: 2px solid var(--white);
+  background-color: var(--transparent);
+  color: var(--white);
+}
+
+#contact button {
+  color: var(--white);
+  border: 1px solid var(--orange-7);
+  background-color: var(--transparent);
+}
+
+#contact button:hover {
+  background-color: var(--orange-transparent-1);
+}
+
+#contact button:active {
+  background-color: var(--orange-7);
+}
+
+#part2-contact div > p {
+  color: var(--white);
+}
+
+footer {
+  background-color: var(--gray-5);
+}
+
+footer p {
+  color: var(--white);
+}
+
+@media (max-width: 900px) {
+  header {
+    background-color: var(--transparent);
+  }
+}
